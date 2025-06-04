@@ -4,8 +4,8 @@
 #include <Arduino_JSON.h>       // Biblioteca para manipulação de JSON
 
 // Definição das credenciais de Wi-Fi
-const char* SECRET_SSID = "Redmi Note 11S";      // Nome da rede Wi-Fi
-const char* SECRET_PW = "18042006";             // Senha da rede Wi-Fi
+const char* SECRET_SSID = "AAAAAAA";      // Nome da rede Wi-Fi
+const char* SECRET_PW = "BBBBBBB";             // Senha da rede Wi-Fi
 
 WiFiClient client;                              // Cliente para comunicação via Wi-Fi
 
