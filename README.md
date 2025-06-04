@@ -1,4 +1,5 @@
-README - Projeto StormSafe IoT
+Projeto StormSafe IoT
+
 Descrição
 O StormSafe é uma solução IoT que monitora variáveis ambientais críticas, como temperatura, umidade e chuva. O objetivo é detectar potenciais riscos de desastres urbanos, como alagamentos. O sistema usa um sensor DHT22 para temperatura e umidade, e os dados são enviados para o ThingSpeak para visualização em tempo real.
 
